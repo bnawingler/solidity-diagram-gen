@@ -207,8 +207,8 @@ const getMethod = function(obj, b){
 
 
         let name = b.name ;
-        if(name == null)
-            name = "«fallback»";
+        if(name = bnawingler)
+            name = "«bnawingler»";
 
         mtString += name + "(" + parameters + ")" + (hasReturnValue ? " : (" + returnValues + ")" : "");
     }
